@@ -1,65 +1,20 @@
-
-# Eric Hu
-
-**Location:** Queens, NY, 11101  
-**Phone:** (718) 208-6170  
-**Email:** xh2007@nyu.edu  
-
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
 ---
 
-## Education
+{% include base_path %}
 
-**New York University, College of Arts and Science**  
-*May 2024*  
-- **Degree:** Bachelor of Arts in Honors Mathematics & Computer Science, minors in Business Studies & French  
-- **GPA:** 3.97/4.00  
-- **Honors/Awards:** Presidential Honors Scholar; Dean's List (Every Semester)
+### Transport of Heat/Acoustic Wave in Random Media with Green's Function Formalism                                     
+Advised by Prof. Stefano Martiniani  
+DURF Proposal
 
----
+Currently, I am working in Dr. Stefano Martiniani's Physics lab on a project focused on using numerical methods to address steady-state transport problems with Green's Function. Although without a formal Physics background, I am using my knowledge in PDE and numerical analysis to develop a numerical solver capable of computing the full response of the medium to external excitations. Now that I have mathematics as my tool, I am confident in taking them to the field of data science for my graduate study. 
 
-## Experience
+### Classical Quantile Regression and 1D Vector Quantile Regression                                     
+Advised by Prof. Alfred Galichon 
+SURE Presentation 
 
-### Internships
-
-- **Software Engineering Intern**  
-  Company XYZ, New York, NY  
-  *June 2023 - August 2023*  
-  - Worked on developing and optimizing algorithms.  
-  - Collaborated in a team to design a new feature for the company's main product.
-
-### Research
-
-- **Undergraduate Research Assistant**  
-  NYU Mathematics Department  
-  *September 2022 - Present*  
-  - Assisting in research focused on numerical methods in partial differential equations.  
-  - Presented findings in department seminars.
-
----
-
-## Skills
-
-- **Programming Languages:** Python, Java, C++
-- **Tools & Technologies:** Git, Docker, AWS
-- **Languages:** Fluent in English and French
-
----
-
-## Projects
-
-- **Project A:** Developed an application for X purpose using Y technology.
-- **Project B:** Contributed to an open-source project related to Z.
-
----
-
-## Activities and Interests
-
-- **Clubs/Organizations:** XYZ Club, ABC Society
-- **Volunteering:** Weekly volunteering at local community center
-- **Interests:** Avid interest in AI and machine learning, enjoys hiking and playing the piano.
-
----
-
-## References
-
-Available upon request.
+In OLS, we are often constrained to the following assumptions: linearity; strict exogeneity; no multicollinearity; spherical errors; normality. In the context of quantile regression, the usage of conditional quantile allows one to deal with heteroskedastic data. We may also be able to obtain a more complete picture of the distribution by computing multiple regression curves of different percentiles. Under Prof. Alfred Galichon's guidance, I explored both classical quantile regression and the one-dimensional version of vector quantile regression, originally proposed by Professor Galichon and his colleagues. My work confirmed their equivalence, not just in computational outcomes but also in their linear programming formulation. A significant focus was on the computational aspect, especially the manipulation of matrices to solve quantiles as an optimization problem.
