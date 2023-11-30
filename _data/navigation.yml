@@ -3,11 +3,14 @@ main:
   - title: "Research"
     url: /Research/
 
-  - title: "Projects"
+  - title: "Project"
     url: /project/
 
-  - title: "Courses"
-    url: /courses/    
+  - title: "Course"
+    url: /course/    
     
   - title: "Resume"
     url: /resume/
+
+  - title: "Hobby"
+    url: /hobby/
