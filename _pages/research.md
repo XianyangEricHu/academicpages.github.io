@@ -9,7 +9,7 @@ author_profile: true
 
 ## Transport of Heat/Acoustic Wave in Random Media with Green's Function 
 **Advised by Prof. [Stefano Martiniani](https://as.nyu.edu/faculty/stefano-martiniani.html)**  
-**[DURF Proposal](https://erichu12138.github.io/files/DURF_Proposal.pdf)**
+**[Proposal](https://erichu12138.github.io/files/DURF_Proposal.pdf)**
 
 Currently, I am working in Dr. Stefano Martiniani's Physics [lab](https://martinianilab.org/index.html) on a project focused on using numerical methods to address steady-state transport problems with Green's Function. Although without a formal Physics background, I am using my knowledge in PDE and numerical analysis to develop a numerical solver capable of computing the full response of the medium to external excitations. Now that I have mathematics as my tool, I am confident in taking them to the field of data science for my graduate study. 
 
