@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Transport of Heat/Acoustic Wave in Random Media with Green's Function 
+## Transport of Heat/Acoustic Wave in Random Media with Green's Function Formalism
 **Advised by Prof. [Stefano Martiniani](https://as.nyu.edu/faculty/stefano-martiniani.html)**  
 [Proposal](https://erichu12138.github.io/files/DURF_Proposal.pdf)
 
