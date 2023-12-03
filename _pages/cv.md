@@ -23,7 +23,7 @@ author_profile: true
 - Visualized numerical data with Pyplot to compare thematic influences of economic journals and produced publish-level images
 
   
-## Technical Skills
+## Skills
 **Computer&nbsp;&nbsp;&nbsp;**  Python, Java, C++, SQL, MongoDB, Julia, Matlab   
 **Languages&nbsp;** Fluent in English and Chinese, Conversant in French
 
