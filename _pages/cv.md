@@ -29,3 +29,6 @@ author_profile: true
 ## Technical Skills
 **Computer&nbsp;&nbsp;&nbsp;**  Python, Java, C++, SQL, MongoDB, Julia, Matlab   
 **Languages&nbsp;** Fluent in English and Chinese, Conversant in French
+
+## Association
+**NYU Math Society**, **NYU Japanese Cultural Association (JCA)**, **NYU French Club**, **NYU Rubik's Cube**
