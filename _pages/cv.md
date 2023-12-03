@@ -8,9 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## Education
-* Bachelor of Arts in Honors Mathematics & Computer Science, minors in Business Studies & French
+**New York University, College of Arts and Science**  
+*Bachelor of Arts in Honors Mathematics & Computer Science, minors in Business Studies & French*
 
-## Work experience
+## Professional Experience
 ### Shanghai ZTCapital Management Co.,Ltd
 **Quantitative Analyst Intern (Remote)**  
 *Shanghai, China - Oct. 2023 – Present*
@@ -25,10 +26,6 @@ author_profile: true
 - Visualized numerical data with Pyplot to compare thematic influences of economic journals and produced publish-level images
 
   
-## Skills
-======
-* Python
-* Java
-* C++
-* SQL
-* MongoDB
+## Technical Skills
+**Computer&nbsp;&nbsp;&nbsp;**  Python, Java, C++, SQL, MongoDB, Julia, Matlab   
+**Languages&nbsp;** Fluent in English and Chinese, Conversant in French
