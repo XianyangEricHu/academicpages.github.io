@@ -11,7 +11,7 @@ author_profile: true
 - MATH-GA.2798: Interest Rate & Fixed Models
 - CSCI-UA.202: Operating Systems
 - CORE-UA.400: Texts & Ideas: The Arts of Noticing
-- CORE-UA.500: Cultures & Contexts: Urban Life in the European City <br>
+- CORE-UA.500: Cultures & Contexts: Urban Life in the European City
 
 ## Fall 2023
 - MATH-GA.2707: Time Series Analysis & Statistical Arbitrage
@@ -19,25 +19,26 @@ author_profile: true
 - MATH-GA.2751: Risk and Portfolio Management
 - MATH-GA.2791: Financial Securities and Markets
 - CSCI-UA.470: Object Oriented Programming
-- CORE-UA.310: Life Science: Molecules of Life<br>
+- CORE-UA.310: Life Science: Molecules of Life
+
 ## Summer 2023
-- MATH-GA.2902: Stochastic Calculus<br>
+- MATH-GA.2902: Stochastic Calculus
 
 ## Spring 2023 @ NYU Paris
 - MATH-UA.9263: Partial Differential Equations
 - CSCI-UA.9479: Data Management and Analysis
 - FREN-UA.9101: Spoken Contemporary French
-- NODEP-UA.9982: Experiential Learning Seminar<br>
+- NODEP-UA.9982: Experiential Learning Seminar
 
 ## Fall 2022
 - MATH-UA.348: Honors Algebra I
 - MATH-UA.268: Honors Ordinary Differential Equations
 - CSCI-UA.201: Computer Systems Organization
 - CSCI-UA.310: Basic Algorithms
-- FREN-UA.30: French Grammar and Composition<br>
+- FREN-UA.30: French Grammar and Composition
 
 ## Summer 2022
-- FREN-UA.20: Intensive Intermediate French<br>
+- FREN-UA.20: Intensive Intermediate French
 
 ## Spring 2022
 
