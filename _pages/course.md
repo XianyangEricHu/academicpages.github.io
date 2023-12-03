@@ -57,7 +57,7 @@ author_profile: true
 ## Summer 2021
 - ECON-UA.1: Introduction to Macroeconomics
 
-### Spring 2021 @ NYU Shanghai
+## Spring 2021 @ NYU Shanghai
 - MATH-UA.233: Theory of Probability
 - MATH-UA.120: Discrete Mathematics
 - FYSEM-UA.9902: Opera in a Global Context: Singing Self and Society
