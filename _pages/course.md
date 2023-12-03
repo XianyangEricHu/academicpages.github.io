@@ -41,35 +41,30 @@ author_profile: true
 - FREN-UA.20: Intensive Intermediate French
 
 ## Spring 2022
+- MATH-UA.396: Special Topics II: Honors Numerical Analysis
+- MATH-UA.282: Functions of a Complex Variable
+- CSCI-UA.473: Introduction to Machine Learning
+- ACCT-UB.1: Principle of Financial Accounting
+- FREN-UA.2: Elementary French II
+
+### Fall 2021
+- MATH-UA.328: Honors Analysis I
+- STAT-UB.103: Stats for Business Control, Regression & Forecasting Models
+- CSCI-UA.102: Data Structures
+- FREN-UA.1: Elementary French I
+- MKTG-UB.1: Intro to Marketing
 
 ### Summer 2021
 - ECON-UA.1: Introduction to Macroeconomics
 
+### Spring 2021 @ NYU Shanghai
+- MATH-UA.233: Theory of Probability
+- MATH-UA.120: Discrete Mathematics
+- FYSEM-UA.9902: Opera in a Global Context: Singing Self and Society
+- EXPOS-UA.9: International Writing Workshop II
 
-**Spring 2021:**
-- MATH-UA 282-001: Functions of a Complex Variable
-- MATH-UA 396-001: Special Topics II
-- SCHOL-UA 20-009: Honors Numerical Analysis
-- EXPOS-UA 9-001: International Writing Workshop II
-- FYSEM-UA 9902-F01: Topics
-- MATH-UA 120-004: Discrete Mathematics
-- MATH-UA 233-SH5: Theory of Probability
-
-**Fall 2020:**
-- CSCI-UA 102-001: Data Structures
-- FREN-UA 1-007: Elementary French Level I
-- MATH-UA 328-001: Honors Analysis I
-- SCHOL-UA 20-009: Sophomore Scholars Seminar
-- STAT-UB 103-004: Stats for Business Control, Regression & Forecasting Models
-- MKTG-UB 1-040: Intro to Marketing
-- CORE-UA 9700-006: Expressive Culture: Topics
-- EXPOS-UA 4-060: International Writing Workshop I
-- MATH-UA 123-005: Calculus III
-- MATH-UA 140-006: Linear Algebra
-
-**Test Credits Applied Toward Fall 2020:**
-- ADV_PL: Calculus BC
-- ADV_PL: Computer Science A
-- ADV_PL: Economics - Microeconomics
-- ADV_PL: Physics C Mechanics
-- ADV_PL: Statistics【40†source】【41†source】【42†source】【43†source】【44†source】【45†source】【46†source】.
+## Fall 2020 @ NYU Shanghai
+- MATH-UA.123: Calculus III
+- MATH-UA.140: Linear Algebra
+- CORE-UA.9700: Expressive Culture: Contemporary Art and Globalization
+- EXPOS-UA.4: International Writing Workshop I
