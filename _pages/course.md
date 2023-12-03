@@ -47,14 +47,14 @@ author_profile: true
 - ACCT-UB.1: Principle of Financial Accounting
 - FREN-UA.2: Elementary French II
 
-### Fall 2021
+## Fall 2021
 - MATH-UA.328: Honors Analysis I
 - STAT-UB.103: Stats for Business Control, Regression & Forecasting Models
 - CSCI-UA.102: Data Structures
 - FREN-UA.1: Elementary French I
 - MKTG-UB.1: Intro to Marketing
 
-### Summer 2021
+## Summer 2021
 - ECON-UA.1: Introduction to Macroeconomics
 
 ### Spring 2021 @ NYU Shanghai
