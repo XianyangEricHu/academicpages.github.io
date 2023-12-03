@@ -31,11 +31,14 @@ author_profile: true
 - MATH-UA.268: Honors Ordinary Differential Equations
 - CSCI-UA.201: Computer Systems Organization
 - CSCI-UA.310: Basic Algorithms
-- FREN-UA.30: French Grammar and Composition
+- FREN-UA.30: French Grammar and Composition<br>
+### Summer 2022
+- FREN-UA.20: Intensive Intermediate French<br>
+### Spring 2022
 
-**Summer 2021:**
-- ECON-UA 1-001: Introduction to Macroeconomics
-- FREN-UA 20-001: Intensive Intermediate French
+### Summer 2021
+- ECON-UA.1: Introduction to Macroeconomics
+
 
 **Spring 2021:**
 - MATH-UA 282-001: Functions of a Complex Variable
