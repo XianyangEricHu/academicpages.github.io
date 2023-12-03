@@ -11,7 +11,7 @@ author_profile: true
 **New York University, College of Arts and Science**  
 *Bachelor of Arts in Honors Mathematics & Computer Science, minors in Business Studies & French*
 
-## Professional Experience
+## Professional Experience ([Resume](https://erichu12138.github.io/files/Resume_Eric_MFE.pdf))
 ### Shanghai ZTCapital Management Co.,Ltd
 **Quantitative Analyst Intern (Remote)**  
 *Shanghai, China - Oct. 2023 – Present*
