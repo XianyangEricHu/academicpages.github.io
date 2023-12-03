@@ -7,7 +7,8 @@ author_profile: true
 
 # New York Championship 2022
 
-<iframe width="400" height="300" src="https://www.youtube.com/embed/mKY8k7cN2yw" title="YouTube video player" frameborder="0" style="width: 400px; height: 300px; max-width: 100%; max-height: 100%;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/mKY8k7cN2yw" title="YouTube video player" frameborder="0" style="width: 100%; height: 100%; min-width: 400px; min-height: 300px; max-width: 600px; max-height: 450px;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
