@@ -1,28 +1,27 @@
 ---
 layout: archive
-title: "Courses"
+title: ""
 permalink: /courses/
 author_profile: true
 ---
 
-**Spring 2024:**
-
-- MATH-GA 2012-002: Convex & Nonsmooth Optimization
-- MATH-GA 2071-001: Machine Learning & Computational Statistics
-- MATH-GA 2798-001: Interest Rate & Fixed Models
-- CSCI-UA 202-002: Operating Systems
-- CORE-UA 400: Texts & Ideas: The Arts of Noticing
-- SCHOL-UA 40-001: Senior Scholars Seminar
-
-
-**Fall 2023:**
-- MATH-GA 2707-001: Time Series Analysis & Statistical Arbitrage
-- MATH-GA 2070-001: Data Science & Data-Driven Modeling
-- MATH-GA 2751-001: Risk and Portfolio Management
-- MATH-GA 2791-001: Financial Securities and Markets
-- CSCI-UA 470-001: Object Oriented Programming
-- CORE-UA 310-001: Life Science: Molecules of Life
-- SCHOL-UA 40-001: Senior Scholars Seminar
+**Spring 2024**
+- MATH-GA.2012: Convex & Nonsmooth Optimization
+- MATH-GA.2071: Machine Learning & Computational Statistics
+- MATH-GA.2798: Interest Rate & Fixed Models
+- CSCI-UA 202: Operating Systems
+- CORE-UA 400: Texts & Ideas--The Arts of Noticing
+- CORE-UA 500: Cultures & Contexts--Urban Life in the European City 
+- SCHOL-UA 40: Senior Scholars Seminar  
+<br>
+**Fall 2023**
+- MATH-GA 2707: Time Series Analysis & Statistical Arbitrage
+- MATH-GA 2070: Data Science & Data-Driven Modeling
+- MATH-GA 2751: Risk and Portfolio Management
+- MATH-GA 2791: Financial Securities and Markets
+- CSCI-UA 470: Object Oriented Programming
+- CORE-UA 310: Life Science: Molecules of Life
+- SCHOL-UA 40: Senior Scholars Seminar
 
 **Summer 2023:**
 - MATH-GA 2902-001: Stochastic Calculus
