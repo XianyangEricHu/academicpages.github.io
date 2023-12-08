@@ -66,5 +66,5 @@ author_profile: true
 ## Fall 2020 @ NYU Shanghai
 - MATH-UA.123: Calculus III
 - MATH-UA.140: Linear Algebra
-- CORE-UA.9700: Expressive Culture: Contemporary Art and Globalization | [Collection](https://erichu12138.github.io/files/Arts_Essay_Collection.pdf)
+- CORE-UA.9700: Expressive Culture: Contemporary Art and Globalization | [Collection](https://erichu12138.github.io/files/Arts_Essay_Collection.pdf)  
 - EXPOS-UA.4: International Writing Workshop I
