@@ -15,7 +15,7 @@ author_profile: true
 
 ## Fall 2023
 - MATH-GA.2707: Time Series Analysis & Statistical Arbitrage
-- MATH-GA.2070: Data Science & Data-Driven Modeling
+- MATH-GA.2070: Data Science & Data-Driven Modeling | [Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/ols)
 - MATH-GA.2751: Risk and Portfolio Management
 - MATH-GA.2791: Financial Securities and Markets
 - CSCI-UA.470: Object Oriented Programming
