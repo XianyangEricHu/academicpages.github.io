@@ -14,11 +14,11 @@ author_profile: true
 - CORE-UA.500: Cultures & Contexts: Urban Life in the European City
 
 ## Fall 2023
-- MATH-GA.2707: Time Series Analysis & Statistical Arbitrage ([Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Time_Series))
-- MATH-GA.2070: Data Science & Data-Driven Modeling ([Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Data_Driven_Modeling_ML))
-- MATH-GA.2751: Risk and Portfolio Management ([Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Risk_Portfolio_Management))
-- MATH-GA.2791: Financial Securities and Markets ([Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Financial_Securities_and_Markets))
-- CSCI-UA.470: Object Oriented Programming ([Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/OOP))
+- MATH-GA.2707: Time Series Analysis & Statistical Arbitrage (**[Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Time_Series)**)
+- MATH-GA.2070: Data Science & Data-Driven Modeling (**[Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Data_Driven_Modeling_ML)**)
+- MATH-GA.2751: Risk and Portfolio Management (**[Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Risk_Portfolio_Management)**)
+- MATH-GA.2791: Financial Securities and Markets (**[Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Financial_Securities_and_Markets)**)
+- CSCI-UA.470: Object Oriented Programming (**[Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/OOP)**)
 - CORE-UA.310: Life Science: Molecules of Life
 
 ## Summer 2023
@@ -66,5 +66,5 @@ author_profile: true
 ## Fall 2020 @ NYU Shanghai
 - MATH-UA.123: Calculus III
 - MATH-UA.140: Linear Algebra
-- CORE-UA.9700: Expressive Culture: Contemporary Art and Globalization ([Collection](https://erichu12138.github.io/files/Arts_Essay_Collection.pdf))
+- CORE-UA.9700: Expressive Culture: Contemporary Art and Globalization (**[Collection](https://erichu12138.github.io/files/Arts_Essay_Collection.pdf)**)
 - EXPOS-UA.4: International Writing Workshop I
