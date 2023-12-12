@@ -5,14 +5,6 @@ permalink: /courses/
 author_profile: true
 ---
 
-## Spring 2024
-- MATH-GA.2012: Convex & Nonsmooth Optimization
-- MATH-GA.2071: Machine Learning & Computational Statistics
-- MATH-GA.2798: Interest Rate & Fixed Models
-- CSCI-UA.202: Operating Systems
-- CORE-UA.400: Texts & Ideas: The Arts of Noticing
-- CORE-UA.500: Cultures & Contexts: Urban Life in the European City
-
 ## Fall 2023
 - MATH-GA.2707: Time Series Analysis & Statistical Arbitrage (**[Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Time_Series)**)
 - MATH-GA.2070: Data Science & Data-Driven Modeling (**[Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Data_Driven_Modeling_ML)**)
