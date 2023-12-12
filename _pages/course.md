@@ -14,11 +14,11 @@ author_profile: true
 - CORE-UA.500: Cultures & Contexts: Urban Life in the European City
 
 ## Fall 2023
-- MATH-GA.2707: Time Series Analysis & Statistical Arbitrage
+- MATH-GA.2707: Time Series Analysis & Statistical Arbitrage | [Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Time_Series)
 - MATH-GA.2070: Data Science & Data-Driven Modeling | [Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Data_Driven%20Modeling)
 - MATH-GA.2751: Risk and Portfolio Management | [Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Risk%20%26%20Portfolio%20Management)
-- MATH-GA.2791: Financial Securities and Markets
-- CSCI-UA.470: Object Oriented Programming
+- MATH-GA.2791: Financial Securities and Markets | [Code]()
+- CSCI-UA.470: Object Oriented Programming | [Code]()
 - CORE-UA.310: Life Science: Molecules of Life
 
 ## Summer 2023
