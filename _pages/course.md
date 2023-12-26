@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Fall 2023
-- MATH-GA.2707: Time Series Analysis & Statistical Arbitrage (**[Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Time_Series)** | **[Notes](https://erichu12138.github.io/files/Time_Series_Analysis_Notes.pdf)**)
+- MATH-GA.2707: Time Series Analysis & Statistical Arbitrage (**[Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Time_Series)**  **[Notes](https://erichu12138.github.io/files/Time_Series_Analysis_Notes.pdf)**)
 - MATH-GA.2070: Data Science & Data-Driven Modeling (**[Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Data_Driven_Modeling_ML)**)
 - MATH-GA.2751: Risk and Portfolio Management (**[Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Risk_Portfolio_Management)**)
 - MATH-GA.2791: Financial Securities and Markets (**[Code](https://github.com/erichu12138/erichu12138.github.io/tree/master/files/Financial_Securities_and_Markets)**)
