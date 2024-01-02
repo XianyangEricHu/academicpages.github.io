@@ -4,7 +4,8 @@ title: ""
 permalink: /project/
 author_profile: true
 ---
-## Dynamic Volatility Arbitrage Strategy Design **[Report](https://erichu12138.github.io/files/Time_Series_Project.pdf)** | **[Code]()**
+## Dynamic Volatility Arbitrage Strategy Design   
+**[Report](https://erichu12138.github.io/files/Time_Series_Project.pdf)** | **[Code]()**
 
 This is the capstone project for the course Time Series Analysis & Statistical Arbitrage. We implemented a volatility arbitrage strategy by predicting S&P 500 future volatility using GARCH-type models, contrasting it with VIX-implied volatility. Then, we employed dynamic trading rule taking long or short positions guided by a threshold of forecasted errors. The best model achieved a 14.56% annualized return with a 0.4747 Sharpe Ratio in Year 2018-2023 backtesting.
 
