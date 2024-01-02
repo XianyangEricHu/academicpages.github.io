@@ -24,7 +24,7 @@ author_profile: true
 
 ## Fall 2022
 - MATH-UA.348: Honors Algebra I
-- MATH-UA.268: Honors Ordinary Differential Equations
+- MATH-UA.268: Honors Ordinary Differential Equations (**[Notes](https://erichu12138.github.io/files/HODE_NOTES.pdf)**)
 - CSCI-UA.201: Computer Systems Organization
 - CSCI-UA.310: Basic Algorithms
 - FREN-UA.30: French Grammar and Composition
@@ -33,8 +33,8 @@ author_profile: true
 - FREN-UA.20: Intensive Intermediate French
 
 ## Spring 2022
-- MATH-UA.396: Special Topics II: Honors Numerical Analysis
-- MATH-UA.282: Functions of a Complex Variable
+- MATH-UA.396: Special Topics II: Honors Numerical Analysis (**[Notes](https://erichu12138.github.io/files/HNA_NOTES.pdf)**)
+- MATH-UA.282: Functions of a Complex Variable (**[Notes](https://erichu12138.github.io/files/COMPLEX_NOTES.pdf)**)
 - CSCI-UA.473: Introduction to Machine Learning
 - ACCT-UB.1: Principle of Financial Accounting
 - FREN-UA.2: Elementary French II
@@ -49,13 +49,13 @@ author_profile: true
 ## Summer 2021
 - ECON-UA.1: Introduction to Macroeconomics
 
-## Spring 2021 @ NYU Shanghai
+## Spring 2021 Go Local @ NYU Shanghai
 - MATH-UA.233: Theory of Probability
 - MATH-UA.120: Discrete Mathematics
 - FYSEM-UA.9902: Opera in a Global Context: Singing Self and Society
 - EXPOS-UA.9: International Writing Workshop II
 
-## Fall 2020 @ NYU Shanghai
+## Fall 2020 Go Local @ NYU Shanghai
 - MATH-UA.123: Calculus III
 - MATH-UA.140: Linear Algebra
 - CORE-UA.9700: Expressive Culture: Contemporary Art and Globalization (**[Collection](https://erichu12138.github.io/files/Arts_Essay_Collection.pdf)**)
