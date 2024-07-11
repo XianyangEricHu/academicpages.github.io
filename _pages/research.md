@@ -7,12 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Transport of Heat/Acoustic Wave in Random Media with Green's Function Formalism
-**Advised by Prof. [Stefano Martiniani](https://as.nyu.edu/faculty/stefano-martiniani.html)**  
-[Proposal](https://erichu12138.github.io/files/DURF_Proposal.pdf)
-
-Currently, I am working in Dr. Stefano Martiniani's Physics [Lab](https://martinianilab.org/index.html) on a project focused on using numerical methods to address steady-state transport problems with Green's Function. Although without a formal Physics background, I am using my knowledge in PDE and numerical analysis to develop a numerical solver capable of computing the full response of the medium to external excitations. Now that I have mathematics as my tool, I am confident in taking them to the field of data science for my graduate study. 
-
 ## Classical Quantile Regression and One-Dimensional Vector Quantile Regression 
 **Advised by Prof. [Alfred Galichon](https://alfredgalichon.com/)**  
 [Presentation](https://erichu12138.github.io/files/SURE_slides.pdf) [Report](https://erichu12138.github.io/files/SURE_report.pdf) [Code](https://github.com/erichu12138/erichu12138.github.io/blob/master/files/1D_VQR.ipynb)  
