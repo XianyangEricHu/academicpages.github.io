@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xianyang's Personal Webpage"
+title                    : "Personal Webpage"
 title_separator          : "-"
 name                     : &name "Overview"
 description              : &description ""
