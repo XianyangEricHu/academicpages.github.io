@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eric Hu"
+title                    : "Xianyang's Personal Webpage"
 title_separator          : "-"
-name                     : &name "Eric Hu"
-description              : &description "Senior student at New York University"
+name                     : &name "Xianyang (Eric) Hu"
+description              : &description ""
 url                      : https://erichu12138.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "erichu12138/erichu12138.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eric Hu"
+  name             : "Xianyang (Eric) Hu"
   avatar           : "bio.png"
-  bio              : "Senior @ NYU Courant  <br>Mathematics<br>Computer Science"
+  bio              : "Graduated from NYU Courant with degrees in Mathematics and Computer Science. First-year master's student at CMU in Computational Finance."
   location         : "New York City"
   employer         :
   email            : xh2007@nyu.edu
