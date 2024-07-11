@@ -13,6 +13,7 @@ author_profile: true
 
 In OLS, we are often constrained to the following assumptions: linearity; strict exogeneity; no multicollinearity; spherical errors; normality. In the context of quantile regression, the usage of conditional quantile allows one to deal with heteroskedastic data. We may also be able to obtain a more complete picture of the distribution by computing multiple regression curves of different percentiles. Under Prof. Alfred Galichon's guidance, I explored both classical quantile regression and the one-dimensional version of vector quantile regression, originally proposed by Professor Galichon and his colleagues. My work confirmed their equivalence, not just in computational outcomes but also in their linear programming formulation. A significant focus was on the computational aspect, especially the manipulation of matrices to solve quantiles as an optimization problem.
 
+
 ## Analyzing Gender Distribution and Trends of Sexism in French Advertising: A Natural Language Processing Approach
 **Supervised by Prof. [Eric Brousseau](https://brousseau.info/) and Bruno Chaves Ferreira**  
 [Report](https://erichu12138.github.io/files/Research_Report_ACSS.pdf)
